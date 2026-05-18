@@ -1,6 +1,6 @@
 # About Me:
 Hi, I'm a 2nd Year aspiring engineer pursuing my Bachelors in Technology in Computer Science and Engineering.<br>Figuring out tech stacks along the way✌️
-![](https://i.pinimg.com/736x/7c/b7/c8/7cb7c8b7621341ddfa3e4070f6119283.jpg)
+```SELECT * FROM WORLD WHERE "Someone" LIKE "%You%"```
 
 
 ## Where can you reach Yours Truly?

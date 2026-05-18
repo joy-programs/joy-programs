@@ -1,7 +1,7 @@
-# About Me:
-Hi, I'm a 2nd Year aspiring engineer pursuing my Bachelors in Technology in Computer Science and Engineering.<br>Figuring out tech stacks along the way✌️
+# About Me
+Hi, I'm a **2nd Year aspiring engineer** pursuing my Bachelors in Technology in Computer Science and Engineering.<br>**Figuring out tech stacks along the way✌️**
 
-```SELECT * FROM WORLD WHERE "Someone" LIKE "%You%"```
+`SELECT * FROM WORLD WHERE "Someone" LIKE "%You%"`
 
 
 ## Where can you reach Yours Truly?
@@ -16,7 +16,7 @@ if (codeWorking) {
                 codeQuality++;
             }
 }
-- Joy
+// - Joy
 ```
 
 # I like math, so here are some numbers!

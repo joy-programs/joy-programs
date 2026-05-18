@@ -27,5 +27,4 @@ if (codeWorking){
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=joy-programs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Some Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### "There are 10 types of people in the world: those who understand binary, and those who don't."

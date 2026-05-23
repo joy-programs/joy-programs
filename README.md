@@ -1,5 +1,5 @@
 # About Me
-Hi, I'm a **2nd Year aspiring engineer** pursuing my Bachelors in Technology in Computer Science and Engineering.<br>**Figuring out tech stacks along the way✌️**
+Hi, I'm a **2nd Year aspiring engineer** pursuing my Bachelor of Technology in Computer Science and Engineering.<br>**Figuring out tech stacks along the way✌️**
 
 `SELECT * FROM WORLD WHERE "Someone" LIKE "%You%"`
 
